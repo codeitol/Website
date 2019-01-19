@@ -1,0 +1,21 @@
+/*heading for about page */
+#two {
+  color: #ff5c33;
+}
+.trial{
+	font-size: 45px;
+	margin-top: 10px;
+}
+/*heading inside containers*/
+.con{
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	padding-top: 25px;
+	margin-bottom: 10px;
+	/*padding-right: 5px;*/
+	/*margin-right: 3px;*/
+}
+/*color for heading and pic of about*/
+.piclr{
+	color: #000033 ;
+}
